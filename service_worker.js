@@ -5,6 +5,8 @@ var filesToCache = [
   './index.html',
   './manifest.json',
   './public/radicals.csv',
+  './public/tmp03bqpcha.wav',
+  './icon-256.png',
   './leptos-tutorial-' + buildVersion + '_bg.wasm',
   './leptos-tutorial-' + buildVersion + '.js',
 ];
