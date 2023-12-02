@@ -730,7 +730,7 @@ async function __wbg_init(input) {
     if (wasm !== undefined) return wasm;
 
     if (typeof input === 'undefined') {
-        input = new URL('leptos-tutorial-83bd6851b733f94_bg.wasm', import.meta.url);
+        input = new URL('leptos-tutorial-c5bb771a2d70b898_bg.wasm', import.meta.url);
     }
     const imports = __wbg_get_imports();
 
