@@ -1,4 +1,4 @@
-var buildVersion = "68111695cb7d7e6b"
+var buildVersion = "21743992430d0ffd"
 var cacheName = 'leptos-pwa';
 var filesToCache = [
   './',
